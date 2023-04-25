@@ -53,7 +53,7 @@ Speaker: Primaxx Speaker
 # 🎮 Games that I play?
 
 1. [osu!](http://osu.ppy.sh) - A rhythm game created by Dean Herbert (peppy)
-2. Minecraft - A game created by Mojang Studio
+2. [Minecraft](https://minecraft.net) - A game created by Mojang Studio
 
 <!--
 **patin-osu/patin-osu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
