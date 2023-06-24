@@ -38,7 +38,7 @@ GPU: ASUS TUF GAMING GTX 1650
 
 Display: Samsung LF24T35 (1920x1080@75Hz )
 
-Operating System: Windows 10 Professional
+Operating System: Cannoical Ubuntu
 
 # ⌨️ My Computer p**eripheral?**
 
