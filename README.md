@@ -10,7 +10,7 @@ Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old gu
 
 # 📫 How to reach me
 
-You can email me at: [patin@patinch.org](mailto:patin@patinch.org)
+You can email me at: [38832@streesp.ac.th](mailto:38832@streesp.ac.th)
 
 # 😂 Fun fact about me
 
