@@ -5,8 +5,7 @@ Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old gu
 # 🔭 I’m currently working on
 
 1. My Website (Of course).
-2. Collection of my legacy website (Among other things).
-3. A Lot of other stuff that I can’t even describe.
+2. A Lot of other stuff that I can’t even describe.
 
 # 📫 How to reach me
 
@@ -38,7 +37,7 @@ GPU: ASUS TUF GAMING GTX 1650
 
 Display: Samsung LF24T35 (1920x1080@75Hz )
 
-Operating System: Fedora Workstation 38
+Operating System: Windows 11 Pro
 
 # ⌨️ My Computer p**eripheral?**
 
