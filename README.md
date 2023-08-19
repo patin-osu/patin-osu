@@ -26,27 +26,18 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 # 🖥️ My Computer spec?
 
 Motherboard: AsRock H410M-HDV/M.2
-
 CPU: Intel(R) Core(TM) i7-10700F @2.90GHz
-
 Memory: 16GB (Only 8GB are usable) DDR4 2666MHz
-
-Drive: Hikvision C100 240GB (Damn 🥺)
-
+Drive: Hikvision C100 240GB
 GPU: ASUS TUF GAMING GTX 1650
-
 Display: Samsung LF24T35 (1920x1080@75Hz)
-
 Operating System: Windows 10 Pro
 
 # ⌨️ My Computer peripheral?
 
-Mouse: R8 1618 (Or whatever the model name is)
-
+Mouse: R8 1618
 Keyboard: Tsunami MK-03 (Outemu Blue)
-
-Tablet: VEIKK S640 (Revision 2)
-
+Tablet: VEIKK S640
 Speaker: Primaxx Speaker
 
 # 🎮 Games that I play?
