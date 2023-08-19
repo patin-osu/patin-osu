@@ -54,7 +54,6 @@ Speaker: Primaxx Speaker
 1. [osu!](http://osu.ppy.sh) - Rhythm is just a click away!
 2. [Minecraft](https://minecraft.net) - A Sandbox game that can unleash your imagination
 3. [Rotaeno](https://rotaeno.com) - A game that you need to rotate your phone to play
-4. [A Dance Of Fire And Ice](https://www.google.com/search?client=firefox-b-d&q=A+Dance+Of+Fire+And+Ice) - Random one key rhythm game
 
 <!--
 **patin-osu/patin-osu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
