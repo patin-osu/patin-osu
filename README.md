@@ -14,7 +14,7 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 # 😂 Fun fact about me
 
 1. I hate cockroaches (Anyone hates that thing so I guess)
-2. I was scared about the computer gonna exploding when I re-build my PC
+2. I was scared about the computer gonna explode when I re-build my PC
 
 # 💘 YouTuber that I like to watch
 
@@ -54,18 +54,3 @@ Speaker: Primaxx Speaker
 1. [osu!](http://osu.ppy.sh) - Rhythm is just a click away!
 2. [Minecraft](https://minecraft.net) - A Sandbox game that can unleash your imagination
 3. [Rotaeno](https://rotaeno.com) - A game that you need to rotate your phone to play
-
-<!--
-**patin-osu/patin-osu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
