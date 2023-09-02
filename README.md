@@ -4,7 +4,7 @@ Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old gu
 
 # 🔭 I’m currently working on
 
-1. My Website (Of course).
+1. My Website
 2. A Lot of other stuff that I can’t even describe.
 
 # 📫 How to reach me
@@ -21,7 +21,6 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 1. [9arm (King of IT)](https://www.youtube.com/@9arm.): Is a Thailand YouTuber that talks about tech and other stuff like debate Thailand or something like that
 2. [Computer Clan (Krazy Ken)](https://www.youtube.com/@ComputerClan): The Computer Clan creates videos about the uncommon side of tech, including rare & retro tech, prototypes, weird computers and gadgets, and scam tech!
 3. [Psivewri](https://www.youtube.com/@psivewri): A guy that loves fixing up old technology (And loves using eucalyptus Oil for no reason)
-
 4. [Michael MJD](https://mjd.yt): But everything goes wrong... guy on YouTube
 
 # 🖥️ My Computer spec?
@@ -32,7 +31,9 @@ CPU: Intel(R) Core(TM) i7-10700F @2.90GHz
 
 Memory: 16GB DDR4 2666MHz
 
-Drive: Hikvision C100 240GB
+Drive: 
+1.Silicon Power P34A60 128GB SSD 
+2.Hikvision C100 240GB
 
 GPU: ASUS TUF GAMING GTX 1650
 
