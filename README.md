@@ -32,8 +32,8 @@ CPU: Intel(R) Core(TM) i7-10700F @2.90GHz
 Memory: 16GB DDR4 2666MHz
 
 Drive: 
-1.Silicon Power P34A60 128GB SSD 
-2.Hikvision C100 240GB
+1. Silicon Power P34A60 128GB SSD 
+2. Hikvision C100 240GB
 
 GPU: ASUS TUF GAMING GTX 1650
 
