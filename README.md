@@ -39,7 +39,7 @@ GPU: ASUS TUF GAMING GTX 1650
 
 Display: Samsung LF24T35 (1920x1080@75Hz)
 
-Operating System: Windows 10 Pro
+Operating System: Windows 10 Pro for Workstations (Move on to Fedora 39 soon)
 
 # ⌨️ My Computer peripheral?
 
@@ -47,7 +47,7 @@ Mouse: R8 1618
 
 Keyboard: Tsunami MK-03 (Outemu Blue)
 
-Tablet: VEIKK S640
+Tablet: VEIKK S640 V2
 
 Speaker: Primaxx Speaker
 
