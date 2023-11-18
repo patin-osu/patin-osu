@@ -2,11 +2,6 @@
 
 Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old guy that loves computers so much that I want to hug a computer if I can
 
-# 🔭 I’m currently working on
-
-1. My Website
-2. A Lot of other stuff that I can’t even describe.
-
 # 📫 How to reach me
 
 You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
