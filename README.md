@@ -27,7 +27,7 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 
 Motherboard: AsRock H410M-HDV/M.2
 
-CPU: Intel(R) Core(TM) i7-10700F @2.90GHz
+CPU: Intel(R) Core(TM) i7-10700F @ 2.90GHz
 
 Memory: 16GB DDR4 2666MHz
 
@@ -39,11 +39,11 @@ GPU: ASUS TUF GAMING GTX 1650
 
 Display: Samsung LF24T35 (1920x1080@75Hz)
 
-Operating System: Windows 10 Pro for Workstations (Move on to Fedora 39 soon)
+Operating System: Windows 11 Professional
 
 # ⌨️ My Computer peripheral?
 
-Mouse: R8 1618
+Mouse: NUMWO NM-92M
 
 Keyboard: Tsunami MK-03 (Outemu Blue)
 
@@ -56,4 +56,4 @@ Speaker: Primaxx Speaker
 1. [osu!](http://osu.ppy.sh) - Rhythm is just a click away!
 2. [Minecraft](https://minecraft.net) - A Sandbox game that can unleash your imagination
 3. [Rotaeno](https://rotaeno.com) - A game that you need to rotate your phone to play
-4. [Arcaea](https://arcaea.lowiro.com) - 2 Girls serperation
+4. [HATSUNE MIKU: COLORFUL STAGE]([https://www.colorfulstage.com/]) - IDK how can i describe this
