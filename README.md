@@ -29,9 +29,9 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 4.1 Silicon Power P34A60 128GB SSD 
 4.2 Hikvision C100 240GB
 
-5.GPU: ASUS TUF GAMING GTX 1650
-6.Display: Samsung LF24T35 (1920x1080@75Hz)
-7.Operating System: Windows 11 Professional
+5. GPU: ASUS TUF GAMING GTX 1650
+6. Display: Samsung LF24T35 (1920x1080@75Hz)
+7. Operating System: Windows 11 Professional
 
 # ⌨️ My Computer peripheral?
 
