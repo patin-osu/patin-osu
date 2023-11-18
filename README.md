@@ -25,13 +25,13 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 2. CPU: Intel(R) Core(TM) i7-10700F @ 2.90GHz
 3. Memory: 16GB DDR4 2666MHz
 
-4. Drive: 
-4.1 Silicon Power P34A60 128GB SSD 
-4.2 Hikvision C100 240GB
+4. Drive:
+ 1. Silicon Power P34A60 128GB SSD 
+ 2. Hikvision C100 240GB
 
-5. GPU: ASUS TUF GAMING GTX 1650
-6. Display: Samsung LF24T35 (1920x1080@75Hz)
-7. Operating System: Windows 11 Professional
+6. GPU: ASUS TUF GAMING GTX 1650
+7. Display: Samsung LF24T35 (1920x1080@75Hz)
+8. Operating System: Windows 11 Professional
 
 # ⌨️ My Computer peripheral?
 
