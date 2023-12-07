@@ -8,9 +8,9 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 
 # 😂 Fun fact about me
 
-1.
-1. I hate cockroaches (Anyone hates that thing so I guess)
-2. I was scared about the computer gonna exploding when I re-build my PC
+1. I have a crush
+2. I hate cockroaches (Anyone hates that thing so I guess)
+3. I was scared about the computer gonna exploding when I re-build my PC
 
 # 💘 YouTuber that I like to watch
 
