@@ -8,7 +8,7 @@ You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
 
 # 😂 Fun fact about me
 
-1. I have a crush (As seen on my osu! profile)
+1.
 1. I hate cockroaches (Anyone hates that thing so I guess)
 2. I was scared about the computer gonna exploding when I re-build my PC
 
