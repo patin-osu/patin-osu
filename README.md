@@ -4,7 +4,7 @@ Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old gu
 
 # 📫 How to reach me
 
-You can email me at: [patin@patin.dev](mailto:patin@patin.dev)
+You can email me at: [patinopsu@gmail.com](mailto:patinopsu@gmail.com)
 
 # 😂 Fun fact about me
 
