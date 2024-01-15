@@ -39,5 +39,5 @@ You can email me at: [patinopsu@gmail.com](mailto:patinopsu@gmail.com)
 4. [HATSUNE MIKU: COLORFUL STAGE](https://www.colorfulstage.com/) - (Not Really) osu!mania clone
 
 # 📈 Status
-[![Patin's GitHub stats](https://github-readme-stats.vercel.app/api?username=patin_osu)](https://github.com/patin-osu)
+[![Patin's GitHub stats](https://github-readme-stats.vercel.app/api?username=patin-osu)](https://github.com/patin-osu)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317iz5iztao45hynvkderhzgtliu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
