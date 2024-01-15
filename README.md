@@ -44,3 +44,6 @@ You can email me at: [patinopsu@gmail.com](mailto:patinopsu@gmail.com)
 2. [Minecraft](https://minecraft.net) - A Sandbox game that can unleash your imagination
 3. [Rotaeno](https://rotaeno.com) - A game that you need to rotate your phone to play
 4. [HATSUNE MIKU: COLORFUL STAGE](https://www.colorfulstage.com/) - IDK how can i describe this
+
+# 📈 Status
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317iz5iztao45hynvkderhzgtliu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
