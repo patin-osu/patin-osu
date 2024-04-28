@@ -1,16 +1,15 @@
 # 🙏 Introduction
 
-Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old guy that loves computers so much that I want to hug a computer if I can
+Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old that play osu! for a living
 
 # 📫 How to reach me
 
-You can email me at: [patinopsu@gmail.com](mailto:patinopsu@gmail.com)
+You can email me at: [patin@murena.io](mailto:patin@murena.io)
 
 # 😂 Fun fact about me
 
-1. I have a crush
-2. I hate cockroaches (Anyone hates that thing so I guess)
-3. I was scared about the computer gonna exploding when I re-build my PC
+1. I hate cockroaches (Anyone hates that thing so I guess)
+2. I was scared about the computer gonna exploding when I re-build my PC
 
 # 🖥️ My Computer spec?
 
