@@ -21,7 +21,7 @@ You can email me at: [patin@murena.io](mailto:patin@murena.io)
 
 6. GPU: ASUS TUF GAMING GTX 1650
 7. Display: Samsung LF24T35 (1920x1080@75Hz)
-8. Operating System: Windows 11 Professional
+8. Operating System: Fedora 40 (AINT NO WAY I'LL USE ARCH BTW)
 
 # ⌨️ My Computer peripheral?
 
