@@ -1,15 +1,15 @@
 # 🙏 Introduction
 
-Hello there! 👋 I’m Patin Muangjan (pronounce pa-tin) I’m a 13-Year-old that play osu! for a living
+Hello there! 👋 I’m Patin Muangjan (pronounced pa-tin) I’m a 13-year-old guy who like to play Minecraft
 
 # 📫 How to reach me
 
-You can email me at: [patin@murena.io](mailto:patin@murena.io)
+You can email me at: [patin@omg.lol](mailto:patin@omg.lol)
 
 # 😂 Fun fact about me
 
-1. I hate cockroaches (Anyone hates that thing so I guess)
-2. I was scared about the computer gonna exploding when I re-build my PC
+1. I wouldn't say I like cockroaches (Anyone hates that thing so I guess)
+2. I was scared about the computer going to exploding when I re-build my PC
 
 # 🖥️ My Computer spec?
 
@@ -20,18 +20,18 @@ You can email me at: [patin@murena.io](mailto:patin@murena.io)
 4. Drive: (1. Silicon Power P34A60 128GB SSD) (2. Hikvision C100 240GB)
 
 6. GPU: ASUS TUF GAMING GTX 1650
-7. Display: Samsung LF24T35 (1920x1080@75Hz)
-8. Operating System: Fedora 40 (AINT NO WAY I'LL USE ARCH BTW)
+7. Display: AOC 24G2SE
+8. Operating System: Arch Linux (BTW)
 
 # ⌨️ My Computer peripheral?
 
 1. Mouse: NUMWO NM-92M
 2. Keyboard: Tsunami MK-03 (Outemu Blue)
-3. Tablet: VEIKK S640 V2
+3. Tablet: VEIKK S640 V2 (Half-Broken cause the Pen is nowhere to be found)
 4. Speaker: Primaxx Speaker
 
 # 🎮 Games that I play?
 
-1. [osu!](http://osu.ppy.sh) - Rhythm is just a click away!
+1. [osu!](http://osu.ppy.sh) - Rhythm is just a click away! (Retired)
 2. [Minecraft](https://minecraft.net) - A Sandbox game that can unleash your imagination
 3. [Rotaeno](https://rotaeno.com) - A game that you need to rotate your phone to play
